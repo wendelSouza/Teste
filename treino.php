@@ -10,13 +10,12 @@ function teste(){
 }
 
 function teste2(){
+  
    echo "<br/>";
    
-   $nome = "João";
-   
+   $nome = "Maria";
    echo $nome. " agora no teste2";
-
-
+   
 
 }
 
